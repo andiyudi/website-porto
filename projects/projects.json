@@ -1,6 +1,6 @@
 [
   {
-    "name": "Management of Tender",
+    "name": "Matador",
     "desc": "Full-Stack project dashboard which is collection of projects built on the Laravel.",
     "image": "matador",
     "category": "laravel"
